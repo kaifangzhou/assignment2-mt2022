@@ -20,7 +20,7 @@ This assignment is intended to assess your knowledge about **database programmin
 
 4. For testing your database application, make sure you have a consistent set of DML commands (e.g. INSERT, UPDATE, DELETE, and SELECT). You must specify at least 5 (five) SQL queries involving multiple tables (you can use `JOIN` or subqueries), aggregation functions, and `GROUP BY` directives. When defining your queries, think on the most probable information a given user would need to retrieve for your database and then write your SQL commands to answer them. Make sure you describe all SQL questions with the appropriate level of detail, so a layman person can understand what you are trying to retrieve from the database.
 
-5. [this is optional] Feel free to use the `datapane` library (discussed in Week3) or any other graphical format for presenting your query results. The minimal requirement is for presenting these results in your Python notebook.
+5. [this is optional] Feel free to use the `datapane` library (discussed in Week2) or any other graphical format for presenting your query results. The minimal requirement is for presenting these results in your Python notebook.
 
 6. Upload your Python notebook and any other additional files (e.g. CSV files with your input data, graphical files with your query results) to GitHub. Make sure you **don't have any specific file path** - e.g. access to your Google Drive or other - preventing the access to your application's data.
 
